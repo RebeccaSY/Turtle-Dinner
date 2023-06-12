@@ -17,9 +17,13 @@ Discuss and diverge our thinking, determine the theme as ocean pollution.
 
 **Research:** 
 According to the research on marine pollution, we found that the plastic bags and jellyfish are very similar, which make sea turtles mistake them for jellyfish and eat them, many sea turtles died from this. So we set the game to the player control the sea turtle, and distinguish the difference between jellyfish and plastic bags, to make the correct judgment.
+![turtle](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/249561cd-8a02-4a4a-a930-4d1f42938db4)
 
 **Model:** 
-We designed and built a ring-shaped terrain in order to realize that the turtles could always move forward (pulling up the terrain around and in the center, using materials to color the different positions of the model to distinguish between sand and rock parts). Afterwards, existing models (turtles, jellyfish, plastic bags, rocks, water plants, etc.) were used for the decoration of the scene.
+We designed and built a ring-shaped terrain in order to realize that the turtles could always move forward (pulling up the terrain around and in the center, using materials to color the different positions of the model to distinguish between sand and rock parts). 
+![terrain](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/bc8d2c96-bcab-4ddc-a1cb-375fc459c8fa)
+Afterwards, existing models (turtles, jellyfish, plastic bags, rocks, water plants, etc.) were used for the decoration of the scene.
+![2023-06-04 (1)](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/9282c832-6a77-4505-9334-5f0d1e037ff6)
 
 **Scene Switching:** 
 Added a image animation to every scene achieve a natural scene transition.
