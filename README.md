@@ -25,16 +25,10 @@ We designed and built a ring-shaped terrain in order to realize that the turtles
 ![terrain](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/bc8d2c96-bcab-4ddc-a1cb-375fc459c8fa)
 Afterwards, existing models (turtles, jellyfish, plastic bags, rocks, water plants, etc.) were used for the decoration of the scene.
 
-**Scene Switching:** 
-Added a image animation to every scene achieve a natural scene transition.
-
-**Background Music:** 
-Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
-
 ## Game Implementation
 
 **Scenes:**  
-There are 3 scenes - home page, gameplay interface, and gameover interface. The home page briefly introduces the game and features a "Start" button for users to begin playing. When entering the game, the gameplay interface displays the health bar, the number of consumed jellyfish, and the number of mistakenly consumed plastic bags. After the game ends, the user is directed to the gameover screen, where they can choose to restart the game or return to the home interface.
+There are 3 scenes - home page, gameplay interface, and gameover interface. The home page briefly introduces the game and features a "Start" button for users to begin playing. When entering the game, the gameplay interface displays the health bar, the number of consumed jellyfish, and the number of mistakenly consumed plastic bags. After the game ends, the user is directed to the gameover screen, where they can choose to restart the game or return to the home interface. Added a image animation to every scene achieve a natural scene transition.
 
 **Player:**  
 The player experiences the game from the perspective of a turtle, attempting to survive in the ocean. The script takes Arduino's output as player's height, forming variable-speed movement along a circular orbit.
@@ -44,6 +38,9 @@ When collision detected, the item is considered as eaten by the turtle. The quan
 
 **Spawner:**  
 The spawner randomly initiate items within the range of player's orbit. 
+
+**Background Music:** 
+Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
 
 ## Demo
 
