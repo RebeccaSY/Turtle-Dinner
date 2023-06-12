@@ -23,7 +23,7 @@ The player experiences the game from the perspective of a turtle, attempting to 
 **Consumption:**  
 When collision detected, the item is considered as eaten by the turtle. The quantity of jellyfish and plastic bags eaten is stored and displayed on top of screen. A health bar on the top demonstrated the health condition by proportion. The color of the bar changes based on a customised colormap, with greener filling indicating better health and red warning for poor health.
 
-**Spawner**
+**Spawner:**  
 The spawner randomly initiate items within the range of player's orbit. 
 
 ## Demo
