@@ -45,7 +45,7 @@ Create two directional lights: sun and moon, simulate day light and night light.
 Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
 
 ## Demo
-**Link to package:** https://blog.csdn.net/weixin_41814169/article/details/113933329?ops_request_misc=&request_id=&biz_id=102&utm_term=unity%20Ports%20does%20not%20exists%20in&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-113933329.142^v88^koosearch_v1,239^v2^insert_chatgpt&spm=1018.2226.3001.4187  
+**Link to package:** https://artslondon-my.sharepoint.com/:u:/g/personal/s_wang0320222_arts_ac_uk/Eesr-1PSpLNIiB4xWmBTzG8BD5jrvgPQOdMIkRp-8cdNMQ 
 Start screen is under "Assets\Start\Scenes\start"
 
 **Link to video:** 
