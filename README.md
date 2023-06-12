@@ -21,9 +21,8 @@ According to the research on marine pollution, we found that the plastic bags an
 
 
 **Model:** 
-We designed and built a ring-shaped terrain in order to realize that the turtles could always move forward (pulling up the terrain around and in the center, using materials to color the different positions of the model to distinguish between sand and rock parts). 
+We designed and built a ring-shaped terrain in order to realize that the turtles could always move forward (pulling up the terrain around and in the center, using materials to color the different positions of the model to distinguish between sand and rock parts). Afterwards, existing models (turtles, jellyfish, plastic bags, rocks, water plants, etc.) were used for the decoration of the scene.
 ![terrain](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/bc8d2c96-bcab-4ddc-a1cb-375fc459c8fa)
-Afterwards, existing models (turtles, jellyfish, plastic bags, rocks, water plants, etc.) were used for the decoration of the scene.
 
 ## Game Implementation
 
@@ -38,6 +37,9 @@ When collision detected, the item is considered as eaten by the turtle. The quan
 
 **Spawner:**  
 The spawner randomly initiate items within the range of player's orbit. 
+
+**Light changes:** 
+Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
 
 **Background Music:** 
 Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
