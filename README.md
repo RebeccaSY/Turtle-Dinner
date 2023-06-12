@@ -14,10 +14,11 @@ This game aims to demonstrate the impact of plastic pollution on marine life. Th
 
 **Inspiration:** 
 Discuss and diverge our thinking, determine the theme as ocean pollution.
+![research](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/fd45a7c4-2894-4412-88e2-ae1fe06f1496)
 
 **Research:** 
 According to the research on marine pollution, we found that the plastic bags and jellyfish are very similar, which make sea turtles mistake them for jellyfish and eat them, many sea turtles died from this. So we set the game to the player control the sea turtle, and distinguish the difference between jellyfish and plastic bags, to make the correct judgment.
-![turtle](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/249561cd-8a02-4a4a-a930-4d1f42938db4)
+
 
 **Model:** 
 We designed and built a ring-shaped terrain in order to realize that the turtles could always move forward (pulling up the terrain around and in the center, using materials to color the different positions of the model to distinguish between sand and rock parts). 
