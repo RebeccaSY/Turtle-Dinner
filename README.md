@@ -39,7 +39,7 @@ When collision detected, the item is considered as eaten by the turtle. The quan
 The spawner randomly initiate items within the range of player's orbit. 
 
 **Light changes:** 
-Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
+Create two directional lights: sun and moon, simulate day light and night light. Use 'transform.RotateAround' and 'transform.LookAt', causing the game object to orbit around the origin and gaze at it.
 
 **Background Music:** 
 Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
